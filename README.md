@@ -10,6 +10,8 @@
 
 - [ ] Client
 	- [ ] Send Messages
+		- [ ] Send Plaintext/ Markdown
+		- [ ] Send Images/ Videos/ Files
 	- [ ] Rich Pressence
+		- [ ] Give Info About What the User is Doing
 	- [ ] Change Name
-
