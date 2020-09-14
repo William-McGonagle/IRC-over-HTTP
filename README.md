@@ -14,4 +14,5 @@
 		- [ ] Send Images/ Videos/ Files
 	- [ ] Rich Pressence
 		- [ ] Give Info About What the User is Doing
+		- [ ] Set a status
 	- [ ] Change Name
